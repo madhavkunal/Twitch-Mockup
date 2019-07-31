@@ -27,5 +27,6 @@ Steps:
 **To Start Livestreaming :)
 
  Finally, when you have completed all these steps and when you have configured OBS:
+ 
  11. click *Start Streaming* in OBS Studio and watch your livestream in your React App Client in the browser!
  12. You will see your livestream from OBS in the Video Player that is being displayed in the browser when you hit play!
