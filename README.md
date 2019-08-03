@@ -3,7 +3,7 @@ Coded Twitch Mockup App with React, Redux, RTMP Server, RESTful API. Coded along
 
 Steps:
 
-**To Properly Start React App in the Browser:
+#To Properly Start React App in the Browser:
 
 1. Please clone or download this repo on to your desktop
 2. Open up 3 terminal windows and CD into apiServer, reactClient and rtmpServer directories seperately
