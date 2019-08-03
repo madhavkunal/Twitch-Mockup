@@ -1,5 +1,5 @@
 # Twitch Mockup
-Twitch Mockup App with React, Redux, RTMP Server, RESTful API
+Coded Twitch Mockup App with React, Redux, RTMP Server, RESTful API. Coded along with Stephen Grider in Modern React with Redux (2019 Update) Udemy Course (https://www.udemy.com/react-redux/).
 
 Steps:
 
